@@ -1,0 +1,16 @@
+.container{
+	font-size: 30px;
+}
+
+.col-md-6{
+	background-color: lightgray;
+
+}
+
+.col-md-3{
+	
+	background-color: lightgray;
+}
+.last{
+	background-color: #fd7e14;
+}
